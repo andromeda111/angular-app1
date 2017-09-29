@@ -1,0 +1,4 @@
+.span-color > span:n{
+    background-color: blue;
+    color: white;
+}
