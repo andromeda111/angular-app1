@@ -1,5 +1,7 @@
 # Angular4App1
 
+Practice app for further learning the basics of Angular 4.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
 ## Development server
